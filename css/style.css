@@ -1,7 +1,9 @@
 .box{
     width: 200px;
     height: 200px;
-    background-color: tomato;
+    background-color: blue;
     display: inline-block;
     margin-right: 10px;
+    padding: 20px;
+    color: white;
 }
